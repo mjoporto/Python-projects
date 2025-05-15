@@ -7,3 +7,10 @@ states_of_america = ["Delaware", "Pennsylvania", "New Jersey", "Georgia", "Conne
                      "New Mexico", "Arizona", "Alaska", "Hawaii"]
 
 print(states_of_america)
+
+
+fruits = ["Strawberries", "Nectarines", "Apples", "Grapes", "Peaches", "Cherries", "Pears"]
+vegetables = ["Cucumber", "Kale", "Spinnach"]
+dirty_dozen = [fruits, vegetables]
+print(dirty_dozen)
+
