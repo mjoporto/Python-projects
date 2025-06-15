@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c7bd3c3-7f03-4fdf-af94-06a99d659f08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day 18/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 18/spirograph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/100 Days of Code - The Complete Python Pro Bootcamp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
